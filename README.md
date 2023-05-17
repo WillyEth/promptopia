@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+This is written using NEXT.JS,React,JS,Tailwind,Next AUTH, MONGODB as a side project
+
+
+
 First, run the development server:
 
 ```bash
