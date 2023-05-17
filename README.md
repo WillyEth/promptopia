@@ -4,7 +4,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This is written using NEXT.JS,React,JS,Tailwind,Next AUTH, MONGODB as a side project
 
+ 
+![Screenshot 2023-05-17 151522](https://github.com/WillyEth/promptopia/assets/108622575/589ed3ef-3920-4b43-a93c-3dd77396e085)
 
+![Screenshot 2023-05-17 151540](https://github.com/WillyEth/promptopia/assets/108622575/f516ab8d-b2df-48b4-9b8c-9c88e360418d)
+ 
+![Screenshot 2023-05-17 151606](https://github.com/WillyEth/promptopia/assets/108622575/dac6cc48-0dfc-424c-8c78-5e551f67500c)
+
+![Screenshot 2023-05-17 151634](https://github.com/WillyEth/promptopia/assets/108622575/de1546c3-0b15-427e-9233-376e29e5e682)
 
 First, run the development server:
 
